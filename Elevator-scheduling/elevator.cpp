@@ -1,3 +1,4 @@
+#include'elevator.h'
 #include<iostream>
 #include<queue>
 #include<cmath>
@@ -27,4 +28,19 @@ int elevator::updatedestinationqueque(int number,int currentfloor,int destinatio
 	if(currentfloor==destination)
 		number--;
 		return 0;
+}
+elevator::elevator()
+
+{
+
+	
+
+}
+
+elevator::~elevator()
+
+{
+
+	
+
 }
