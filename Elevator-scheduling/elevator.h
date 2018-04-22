@@ -9,3 +9,4 @@ class elevator
 		int stop();
 		int updatedestinationqueue();
 };
+#endif
